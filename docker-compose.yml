@@ -1,0 +1,9 @@
+version: '3.9'
+services:
+  dw:
+    container_name: db_dw
+    restart: on-failure
+    build: ./dw
+    ports:
+      - 3307:3306
+    expose: [3307]
