@@ -441,7 +441,7 @@
     <type>MYSQL</type>
     <access>Native</access>
     <database>trabalho</database>
-    <port>3306</port>
+    <port>3307</port>
     <username>root</username>
     <password>Encrypted 2be98afc86ac385bbaf18ba71dc93bcdf</password>
     <servername/>
@@ -470,7 +470,7 @@
       </attribute>
       <attribute>
         <code>PORT_NUMBER</code>
-        <attribute>3306</attribute>
+        <attribute>3307</attribute>
       </attribute>
       <attribute>
         <code>PRESERVE_RESERVED_WORD_CASE</code>
@@ -570,7 +570,7 @@
       </output>
     </remotesteps>
     <GUI>
-      <xloc>368</xloc>
+      <xloc>512</xloc>
       <yloc>96</yloc>
       <draw>Y</draw>
     </GUI>
@@ -614,7 +614,7 @@
       </output>
     </remotesteps>
     <GUI>
-      <xloc>272</xloc>
+      <xloc>320</xloc>
       <yloc>96</yloc>
       <draw>Y</draw>
     </GUI>
